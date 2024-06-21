@@ -1,0 +1,13 @@
+This is an ASCII file of English printable characters created by me, which is used to test the file content of the experiment in this course.
+It is used to test whether TCP socket programming can normally receive this text content and successfully achieve flipping.
+This paragraph is used to make up the word, a very childlike words.
+Once upon a time, there was a little bear who lived in a beautiful forest.
+Little Bear likes to explore very much and runs around the forest every day looking for new friends and interesting things to do.
+One day, Little Bear met a lost rabbit.Little rabbit is very afraid, because he does not know how to get home.
+Little Bear decided to help little rabbit. He took the little rabbit with him through the forest to find his way home.
+On their journey, Little Bear and Little rabbit met many interesting things. Together they jumped streams, climbed high mountains, and met many other small animals.
+They play together, share food together and become good friends. At last, the little bear and the little rabbit finally found the little rabbit's home.
+Little rabbit was very happy and thanked Little Bear for his help. Little Bear was also very happy, because he helped his friends and gained friendship.
+From then on, Little Bear and Little Rabbit became best friends. They spent many happy hours exploring and playing together.
+The following part of the content is also used to make up the number of words, the dish names are as follows.
+West Lake vinegar fish, sweet and sour tenderloin, braised lion's head, lotus blood duck, big plate chicken.pot wrapped meat, Beijing soy sauce shredded meat, Mapo tofu, spicy chicken, Buddha jump wall, Dongpo meat, steamed Wuchang fish, Kung pao chicken.
